@@ -2,7 +2,7 @@
 ### Studying Computer Science
 
 ## Links:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100028272439695) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028272439695) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahadi-hasan-nstu)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/L0_seR.svg)](https://codeforces.com/profile/L0_seR)
 
