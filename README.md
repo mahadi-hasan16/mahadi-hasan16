@@ -28,10 +28,12 @@
 </p>
 
 # GitHub Stats:
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=mahadi-hasan16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahadi-hasan16&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahadi-hasan16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahadi-hasan16&theme=tokyonight&hide_border=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahadi-hasan16&theme=tokyonight)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahadi-hasan16&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahadi-hasan16&theme=tokyonight&utcOffset=8)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahadi-hasan16&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-hasan16&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahadi-hasan16&icon=5&color=0)](https://visitcount.itsvg.in)
