@@ -29,9 +29,9 @@
 
 # GitHub Stats:
 
-[![](https://raw.githubusercontent.com/mahadi-hasan16/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/mahadi-hasan16/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mahadi-hasan16/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/mahadi-hasan16/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mahadi-hasan16/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/mahadi-hasan16/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mahadi-hasan16/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/mahadi-hasan16/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mahadi-hasan16/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/mahadi-hasan16/github-profile-summary-cards)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=mahadi-hasan16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahadi-hasan16&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahadi-hasan16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahadi-hasan16&icon=5&color=0)](https://visitcount.itsvg.in)
