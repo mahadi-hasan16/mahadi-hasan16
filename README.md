@@ -34,6 +34,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-hasan16&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahadi-hasan16&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
