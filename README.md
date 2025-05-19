@@ -1,8 +1,8 @@
 # Hi, This is Md. Mahadi Hasan
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028272439695) 
+<!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028272439695)--> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahadi-hasan-nstu)
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/L0_seR.svg)](https://codeforces.com/profile/L0_seR)
+<!--[![Codeforces](https://badges.joonhyung.xyz/codeforces/L0_seR.svg)](https://codeforces.com/profile/L0_seR)-->
 [![LeetCode user mahadi16](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmahadi16&logo=leetcode&logoColor=yellow)](https://leetcode.com/mahadi16/)
 
 
